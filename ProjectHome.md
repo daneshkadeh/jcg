@@ -1,0 +1,1 @@
+generator java POJO,XML description information,JDBC DAO Access Layer
